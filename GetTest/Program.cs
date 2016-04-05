@@ -17,6 +17,7 @@ namespace GetTest
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //Change to the cs file.. 
+            //Sync git Ext
         }
     }
 }
